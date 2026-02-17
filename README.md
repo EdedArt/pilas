@@ -1,8 +1,8 @@
-\# Torre de Bloques - Pila (LIFO) en Python
+ Torre de Bloques - Pila (LIFO) en Python
 
 
 
-\## Descripción
+ Descripción
 
 Este proyecto muestra cómo funciona una \*\*pila (LIFO - Last In, First Out)\*\* 
 
@@ -24,7 +24,7 @@ Esto permite ver claramente el comportamiento de una pila en un escenario práct
 
 
 
-\## Funcionalidades
+Funcionalidades
 
 \- Agregar bloques a la torre
 
@@ -42,7 +42,7 @@ Esto permite ver claramente el comportamiento de una pila en un escenario práct
 
 
 
-\## Conceptos Utilizados
+Conceptos Utilizados
 
 \- Programación Orientada a Objetos (Clases y Métodos)
 
@@ -58,7 +58,7 @@ Esto permite ver claramente el comportamiento de una pila en un escenario práct
 
 
 
-\## Cómo Ejecutarlo
+Cómo Ejecutarlo
 
 1\. Asegúrate de tener Python instalado en tu computadora.
 
